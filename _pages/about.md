@@ -13,3 +13,5 @@ Currently, I am working with Professor [Olivier Pauluis]( https://wp.nyu.edu/opa
 
 Besides academics, I enjoy playing frisbee, succor, and table tennis, and I am a fan of Real Marid. I also love DC comics and playing Tetris.
 
+You can find my Resume [here](.../assets/Resume_Newest.pdf).
+
