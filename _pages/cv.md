@@ -45,7 +45,7 @@ Research Experience
   * Extracted global climate change data from the NSF database and analyzed and visualized the data using
 Xarray and Zarr.
   * Participated and presented progress report in the weekly Atmosphere Group Meeting and Dean’s
-Undergraduate Research Conference (DURF).
+Undergraduate Research Conference ([DURF](https://cas.nyu.edu/undergraduate-research/undergraduate-research-conference.html)).
 
 
 Skills
@@ -58,9 +58,9 @@ Skills
 Teaching & Grading
 ======
 * Grading
-  * Discerte Math, Spring 2025
-  * Earth Atmosphere &Ocean: Flund Dynamics & Climate, Spring 2024
+  * [Discerte Math](https://math.nyu.edu/dynamic/courses/undergrad/math-ua-120/), Spring 2025
+  * [Earth Atmosphere &Ocean: Flund Dynamics & Climate](https://math.nyu.edu/dynamic/courses/undergrad/math-ua-228/), Spring 2024
  
 * Teaching Assistant
-  * Linear Algebra, Fall 2024
+  * [Linear Algebra](https://math.nyu.edu/dynamic/courses/undergrad/math-ua-140/), Fall 2024
   
