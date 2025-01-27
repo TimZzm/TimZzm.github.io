@@ -21,7 +21,7 @@ repository               : "TimZzm/TimZzm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./profile_img.png"
+  avatar           : "/profile_img.png"
   name             : "Zimu (Tim) Zhou"
   pronouns         : # example: "she/her"  
   bio              : "M.S. in DS 26', B.A. in Honors Math 24' at NYU"
