@@ -1,6 +1,6 @@
 ---
 title: "Applied Math Research on Moist Convection"
-excerpt: "This is my applied math research project"
+excerpt: "This is my applied math research project<br/><img src='/images/poster_mb.png'><br/><img src='/images/poster_lqw.png'>"
 collection: portfolio
 ---
 
