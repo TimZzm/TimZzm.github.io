@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Applied Math Research on Moist Convection"
+excerpt: "This is my applied math research project"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this research project, I conducted many computer similations about various moist convection on NYU's [High Performance Computing](https://sites.google.com/nyu.edu/nyu-hpc/home). For specific work I have done, see [my research report](../files/INDE_report-2.pdf)
