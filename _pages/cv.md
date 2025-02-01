@@ -25,9 +25,10 @@ Internship experience
 
 
 * Summer 2023: Data Scientist Intern at Tencent
-  *	Collaborated closely with senior team members to build models for the risk assessment for loan approvals by using Decision Tree model, increased the accuracy by 15%.
-  *	Led a team of 5 interns to conduct A/B testing on 1,000+ user evaluations on global virtual banks, providing insights that optimized marketing strategies and budget allocation.
-  *	Developed hotness indicators and formulated an Evaluation model that ranked 20+ global virtual banks based on regional hotness rankings and the data provided by UX evaluation.
+  * Used decision tree model to classify loan applicants into three risk categories based on previous credit history, enhancing the risk control framework.
+  * Developed a model for income estimation for small loan applicants by applying separate linear regressions on declared and TU-estimated income, taking the minimum to mitigate overstatement. Improved accuracy by 15% over the previous model.
+  * Applied category-specified logistic regression to automate the loan approval process, improving loan decision efficiency and reducing high-risk approvals with accuracy 73%.
+
 
 
 * Summer 2022: Quantitative Researcher Intern at AQUMON
