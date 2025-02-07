@@ -16,39 +16,39 @@ Education
 
 Internship experience
 ======
-* Summer 2024: Machine Learning Engineer Intern at [AutoNavi Software Co., Ltd](amap.com)
-  •	[Client Branch Store Sales Prediction]: Employed XGBoost to build regression tree models to predict the sales of client’s new branch stores with 90% of predictions within ±20% of actual values.
-  •	[Branch Store Site Selection]: Exploited DBSCAN clustering to extract key characteristics of high-volume stores and used cosine similarity to locate similar customer regions.
-  •	[Faculty/Students Classification]: Utilized XGB multi-classification tree to differentiate among 1M+ faculties, students, and other people based on their daily routes with an accuracy of 76%.
-  •	[Branch Store Road Match]: Developed a MySQL ETL script to match the client’s branch stores with nearby segmented roads from electronic map grids.
-  •	[Trade Area Determination]: Built a SQL pipeline to determine the primary trade area of 150+ branch stores based on the matched surrounding roads, employing custom Python functions utility for calculations and data transformation.
+* Summer 2024: Machine Learning Engineer Intern at [AutoNavi Software Co., Ltd](https://www.amap.com/)
+  *	[Client Branch Store Sales Prediction]: Employed XGBoost to build regression tree models to predict the sales of client’s new branch stores with 90% of predictions within ±20% of actual values.
+  *	[Branch Store Site Selection]: Exploited DBSCAN clustering to extract key characteristics of high-volume stores and used cosine similarity to locate similar customer regions.
+  *	[Faculty/Students Classification]: Utilized XGB multi-classification tree to differentiate among 1M+ faculties, students, and other people based on their daily routes with an accuracy of 76%.
+  *	[Branch Store Road Match]: Developed a MySQL ETL script to match the client’s branch stores with nearby segmented roads from electronic map grids.
+  *	[Trade Area Determination]: Built a SQL pipeline to determine the primary trade area of 150+ branch stores based on the matched surrounding roads, employing custom Python functions utility for calculations and data transformation.
 
 
 
 * Summer 2023: Data Scientist Intern at [Tencent](https://www.tencent.com/en-us/about.html)
-  •	\[Microloan Applicants Classification\]: Used classification tree model to classify microloan applicants into three risk categories based on previous credit history, enhancing the risk control framework.
-  •	\[Actual Income Estimation\]: Developed a model for income estimation for microloan applicants by applying separate linear regressions to declared and TU-estimated income, taking the minimum to mitigate overstatement risks. This approach improved accuracy by 15% over the previous model.
-  •	\[Automated Microloan Approval\]: Applied category-specified logistic regression to automate the microloan approval process, reducing high-risk approvals with accuracy 73%.
+  *	\[Microloan Applicants Classification\]: Used classification tree model to classify microloan applicants into three risk categories based on previous credit history, enhancing the risk control framework.
+  *	\[Actual Income Estimation\]: Developed a model for income estimation for microloan applicants by applying separate linear regressions to declared and TU-estimated income, taking the minimum to mitigate overstatement risks. This approach improved accuracy by 15% over the previous model.
+  *	\[Automated Microloan Approval\]: Applied category-specified logistic regression to automate the microloan approval process, reducing high-risk approvals with accuracy 73%.
 
 
 
 
 * Summer 2022: Quantitative Researcher Intern at [AQUMON](https://www.aqumon.com/en/)
-  •	\[Self-designed P&L calculator\]: Developed a P&L calculator and evaluator program to calculate the client's slippage and trading P&L when purchasing CTAs.
-  •	\[Automated ETL\]: Designed an automated ETL script to extract client trading data from bank statements and correct discrepancies in company records.
-  •	\[Future Replacement Optimization\]: Built a Python script to automate futures portfolio management, ensuring optimal contract replacement that maximizes profit based on price, order, and delivery date.
+  *	\[Self-designed P&L calculator\]: Developed a P&L calculator and evaluator program to calculate the client's slippage and trading P&L when purchasing CTAs.
+  *	\[Automated ETL\]: Designed an automated ETL script to extract client trading data from bank statements and correct discrepancies in company records.
+  *	\[Future Replacement Optimization\]: Built a Python script to automate futures portfolio management, ensuring optimal contract replacement that maximizes profit based on price, order, and delivery date.
 
 
 
 Research Experience
 ======
 * Applied Math Research: Moist Convection Simulations	(undergraduate research project)
-  •	Developed 30+ Python scripts to simulate convection models derived from Navier-Stokes equations in 2D and 3D. Ran the simulations on HPC systems, varying resolutions, initial conditions, and boundary conditions.
-  •	Applied PCA and Fourier Transform to detect key periodic features from high-dimensional time-series data generated by the simulation.
+  *	Developed 30+ Python scripts to simulate convection models derived from Navier-Stokes equations in 2D and 3D. Ran the simulations on HPC systems, varying resolutions, initial conditions, and boundary conditions.
+  *	Applied PCA and Fourier Transform to detect key periodic features from high-dimensional time-series data generated by the simulation.
 
 * Global Climate Data Analysis (graduate research project)
-  •	Estimated key climate parameters by applying linear regression to historical CMIP6 data, including surface temperature, CO₂ mass, radiative flux, and total precipitable water. Transformed PDE-based climate models into a time-series regression framework by discretizing temperature evolution, enabling statistical inference of climate feedback mechanisms.
-  •	Participated and presented progress report in the weekly Atmosphere Group Meeting and Dean’s
+  *	Estimated key climate parameters by applying linear regression to historical CMIP6 data, including surface temperature, CO₂ mass, radiative flux, and total precipitable water. Transformed PDE-based climate models into a time-series regression framework by discretizing temperature evolution, enabling statistical inference of climate feedback mechanisms.
+  *	Participated and presented progress report in the weekly Atmosphere Group Meeting and Dean’s
 Undergraduate Research Conference ([DURF](https://cas.nyu.edu/undergraduate-research/undergraduate-research-conference.html)).
 
 
