@@ -17,11 +17,11 @@ Education
 Internship experience
 ======
 * Summer 2024: Machine Learning Engineer Intern at [AutoNavi Software Co., Ltd](https://www.amap.com/)
-  *	[Client Branch Store Sales Prediction]: Employed XGBoost to build regression tree models to predict the sales of client’s new branch stores with 90% of predictions within ±20% of actual values.
-  *	[Branch Store Site Selection]: Exploited DBSCAN clustering to extract key characteristics of high-volume stores and used cosine similarity to locate similar customer regions.
-  *	[Faculty/Students Classification]: Utilized XGB multi-classification tree to differentiate among 1M+ faculties, students, and other people based on their daily routes with an accuracy of 76%.
-  *	[Branch Store Road Match]: Developed a MySQL ETL script to match the client’s branch stores with nearby segmented roads from electronic map grids.
-  *	[Trade Area Determination]: Built a SQL pipeline to determine the primary trade area of 150+ branch stores based on the matched surrounding roads, employing custom Python functions utility for calculations and data transformation.
+  *	\[Client Branch Store Sales Prediction\]: Employed XGBoost to build regression tree models to predict the sales of client’s new branch stores with 90% of predictions within ±20% of actual values.
+  *	\[Branch Store Site Selection\]: Exploited DBSCAN clustering to extract key characteristics of high-volume stores and used cosine similarity to locate similar customer regions.
+  *	\[Faculty/Students Classification\]: Utilized XGB multi-classification tree to differentiate among 1M+ faculties, students, and other people based on their daily routes with an accuracy of 76%.
+  *	\[Branch Store Road Match\]: Developed a MySQL ETL script to match the client’s branch stores with nearby segmented roads from electronic map grids.
+  *	\[Trade Area Determination\]: Built a SQL pipeline to determine the primary trade area of 150+ branch stores based on the matched surrounding roads, employing custom Python functions utility for calculations and data transformation.
 
 
 
