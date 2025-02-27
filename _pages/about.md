@@ -15,5 +15,3 @@ Besides academics, I enjoy playing frisbee, succor, and table tennis, and I am a
 
 You can find my Resume [here](../assets/Resume_0218.pdf).
 
-I am actively seeking for Summer 2025 Internship opportunities. My work interests lie on data analysis, machine learning, and risk management.
-
