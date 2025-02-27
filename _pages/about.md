@@ -13,7 +13,7 @@ Currently, I am working with Professor [Olivier Pauluis]( https://wp.nyu.edu/opa
 
 Besides academics, I enjoy playing frisbee, succor, and table tennis, and I am a fan of Real Marid. I also love DC comics and playing Tetris.
 
-You can find my Resume [here](../assets/Resume_Newest.pdf).
+You can find my Resume [here](../assets/Resume_0218.pdf).
 
 I am actively seeking for Summer 2025 Internship opportunities. My work interests lie on data analysis, machine learning, and risk management.
 
