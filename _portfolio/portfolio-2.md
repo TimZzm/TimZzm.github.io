@@ -1,6 +1,6 @@
 ---
 title: "Graduate Climate Data Science Research"
-excerpt: "This is my graduate climate data science research project, still mentored by Prof. Pauluis. The images below are from different sub-projects <br/><img src='/images/port2_im1.png'><br/><img src='/images/port2_im2.png'><br/><img src='/images/port2_im3.png'>"
+excerpt: "This is my graduate climate data science research project, still mentored by Prof. Pauluis. The images below are from different sub-projects <br/><img src='/images/port2_im1.png'><br/><img src='/images/port2_im2.png'><br/><img src='/images/port2_im3_true.png'>"
 collection: portfolio
 ---
 
