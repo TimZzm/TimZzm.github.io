@@ -25,7 +25,7 @@ Internship experience
 
 
 
-* Summer 2023: Data Scientist Intern at [Tencent](https://www.tencent.com/en-us/about.html)
+* Summer 2022: Data Scientist Intern at [Tencent](https://www.tencent.com/en-us/about.html)
   *	\[Microloan Applicants Classification\]: Used classification tree model to classify microloan applicants into three risk categories based on previous credit history, enhancing the risk control framework.
   *	\[Actual Income Estimation\]: Developed a model for income estimation for microloan applicants by applying separate linear regressions to declared and TU-estimated income, taking the minimum to mitigate overstatement risks. This approach improved accuracy by 15% over the previous model.
   *	\[Automated Microloan Approval\]: Applied category-specified logistic regression to automate the microloan approval process, reducing high-risk approvals with accuracy 73%.
