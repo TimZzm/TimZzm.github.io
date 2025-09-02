@@ -11,7 +11,7 @@ Hi, I am Zimu (Tim) Zhou, a first-year M.S. in Data Science student at NYU. I co
 
 Currently, I am working with Professor [Olivier Pauluis]( https://wp.nyu.edu/opauluis/) on applied math research on Moist Rayleigh Benard Convection and Global Climate Data Analysis using the data from [WCRP]( https://www.wcrp-climate.org/) (World Climate Research Programme). I also had several internship experiences in Hong Kong and Mainland China. All of these experiences trained my skills in machine learning, statistical analysis, and data visualization.
 
-Besides academics, I enjoy playing frisbee, succor, and table tennis, and I am a fan of Real Marid. I also love DC comics and playing Tetris.
+Besides academics, I enjoy playing frisbee, soccer, and table tennis, and I am a fan of Real Marid. I also love DC comics and playing Tetris.
 
-You can find my Resume [here](../assets/Resume_0218.pdf).
+You can find my Resume [here](../assets/Resume_Actuary.pdf).
 
