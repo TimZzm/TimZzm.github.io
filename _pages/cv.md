@@ -16,7 +16,8 @@ Education
 
 Skills & Relevant Exams
 ======
-*	Skills: Python (np, pd, plt, XGBoost, Torch, Xarray, TensorFlow), SQL, R, Azure, AWS, Git, MS Suite
+* Skills: Python (numpy, pandas, matplotlib, XGBoost, PyTorch, Xarray, TensorFlow), SQL, R (actuar, ChainLadder), AWS, Git, Tableau, Power BI, Excel (pivot table, VBA, VLOOKUP)
+* Coursework: Applied Statistics (GLM, Kaplan-Meyer, Cox, Wavelet) | Machine Learning (VAEs, Unet, GANs)
 *	Passed Actuarial Exams: P (Probability), FM (Financial Mathematics), SRM (Statistics for Risk Modelling), FAM (Fundamentals of Actuarial Mathematics)
 
 Internship experience
